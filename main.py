@@ -29,4 +29,4 @@ print(response.status_code)
 from bs4 import BeautifulSoup
 
 soup = BeautifulSoup(response.text)
-print(soup.prettify())
+# print(soup.prettify()) 
