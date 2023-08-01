@@ -37,7 +37,7 @@ class WebContentFetcher:
 
 if __name__ == "__main__":
     # Replace this URL with the desired webpage URL
-    webpage_url = "https://example.com"
+    webpage_url = "https://cnswebtechnologies.com/"
 
     web_content_fetcher = WebContentFetcher(webpage_url)
 
